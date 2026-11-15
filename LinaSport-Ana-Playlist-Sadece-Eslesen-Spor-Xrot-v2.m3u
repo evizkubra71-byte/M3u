@@ -1,0 +1,753 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42630" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 1
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",bein test
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13524210538e192d878d20
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42631" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 2
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42632" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 3
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42633" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 4
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42634" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 5
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42635" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 6
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42636" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 7
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42637" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 1 | Kaynak 8
+https://idovavoo.com/xrot-v2/live/bein-sports-1-c-24922b1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42638" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN 1 360P | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2919229346c4e9a95ddb3f
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42639" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN 1 360P | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2919229346c4e9a95ddb3f
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42641" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN 1 480P | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2919229346c4e9a95ddb3f
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42642" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN 1 480P | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2919229346c4e9a95ddb3f
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42644" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN SPORTS 8K FEED | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-8k-feed-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42647" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN SPORTS FEED | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1536730627bbf8f95ca477
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42650" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN SPORTS FEED OZEL FEED YAYIN | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-feed-ozel-feed-yayin-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42653" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN SPORTS FEED UYDU | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1453692314f52730c50395
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42656" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN SPOTS1 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1453692314f52730c50395
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42659" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-2-c-9401920d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42660" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/bein-sports-2-c-9401920d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42661" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 2 | Yedek 3
+https://idovavoo.com/xrot-v2/live/bein-sports-2-c-9401920d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 3 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-3-c-cd24cdb6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 3 | Yedek 2
+https://idovavoo.com/xrot-v2/live/bein-sports-3-c-cd24cdb6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 3 | Yedek 3
+https://idovavoo.com/xrot-v2/live/bein-sports-3-c-cd24cdb6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 4 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 4 | Yedek 2
+https://idovavoo.com/xrot-v2/live/bein-sports-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 4 | Yedek 3
+https://idovavoo.com/xrot-v2/live/bein-sports-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 5 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-5-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 5 | Yedek 2
+https://idovavoo.com/xrot-v2/live/bein-sports-5-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports 5 | Yedek 3
+https://idovavoo.com/xrot-v2/live/bein-sports-5-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN SPORTS HABER | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-haber-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports Max 1 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-max-1-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports Max 1 | Yedek 2
+https://idovavoo.com/xrot-v2/live/bein-sports-max-1-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports Max 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-sports-max-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",beIN Sports Max 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/bein-sports-max-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT | Yedek 1
+https://idovavoo.com/xrot-v2/live/s-sport-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT | Yedek 2
+https://idovavoo.com/xrot-v2/live/s-sport-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 1 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33465497225b9857743b71
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 1 | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33465497225b9857743b71
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 1 MACZAMANI | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2559756791dcf166140367
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 1 MACZAMANI | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2559756791dcf166140367
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/s-sport-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/s-sport-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 3 MACZAMANI | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3269372326de5ff1a4d9d7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT 3 MACZAMANI | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3269372326de5ff1a4d9d7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S SPORT+4 MAC SAATI | Yedek 1
+https://idovavoo.com/xrot-v2/live/s-sport-4-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S SPORT+4 MAC SAATI | Yedek 2
+https://idovavoo.com/xrot-v2/live/s-sport-4-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S SPORT+5 MAC SAATI | Yedek 1
+https://idovavoo.com/xrot-v2/live/s-sport-5-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S SPORT+5 MAC SAATI | Yedek 2
+https://idovavoo.com/xrot-v2/live/s-sport-5-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT+1 MAC SAATI | Yedek 1
+https://idovavoo.com/xrot-v2/live/s-sport-1-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT+1 MAC SAATI | Yedek 2
+https://idovavoo.com/xrot-v2/live/s-sport-1-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT+2 MAC SAATI | Yedek 1
+https://idovavoo.com/xrot-v2/live/s-sport-2-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",S-SPORT+2 MAC SAATI | Yedek 2
+https://idovavoo.com/xrot-v2/live/s-sport-2-mac-saati-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",SMART SPOR 1 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3445708926e6195304f00c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",SMART SPOR 1 | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F660246670c64f4ea57a46
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",SMART SPOR 2 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2726496671ea6fd3c6dc54
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",SMART SPOR 2 | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2726496671ea6fd3c6dc54
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",SPORTS TV | Yedek 1
+https://idovavoo.com/xrot-v2/live/sports-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 1 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-1-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 1 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-1-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 3 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-3-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 3 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-3-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 4 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 4 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 5 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-5-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 5 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-5-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 6 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tabii-spor-6-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TABII SPOR 6 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tabii-spor-6-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibu-spor-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 1 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibu-spor-1-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibu-spor-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibu-spor-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 3 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibu-spor-3-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 3 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibu-spor-3-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 4 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibu-spor-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 4 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibu-spor-4-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 5 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibu-spor-5-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBU SPOR 5 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibu-spor-5-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 1 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibuspor-1-fhd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 1 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibuspor-1-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 1 | Yedek 3
+https://idovavoo.com/xrot-v2/live/tivibuspor-1-fhd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibuspor-2-fhd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibuspor-2-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 2 | Yedek 3
+https://idovavoo.com/xrot-v2/live/tivibuspor-2-fhd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 3 | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibuspor-3-fhd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 3 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibuspor-3-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR 3 | Yedek 3
+https://idovavoo.com/xrot-v2/live/tivibuspor-3-fhd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR SPOR | Yedek 1
+https://idovavoo.com/xrot-v2/live/tivibuspor-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR SPOR | Yedek 2
+https://idovavoo.com/xrot-v2/live/tivibuspor-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TIVIBUSPOR SPOR | Yedek 3
+https://idovavoo.com/xrot-v2/live/tivibuspor-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT Spor | Yedek 1
+https://idovavoo.com/xrot-v2/live/4k-tr-trt-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT Spor | Yedek 2
+https://idovavoo.com/xrot-v2/live/trt-spor-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT Spor Yıldız | Yedek 1
+https://idovavoo.com/xrot-v2/live/trt-spor-yildiz-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EKOL SPOR | Yedek 1
+https://idovavoo.com/xrot-v2/live/ekol-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EKOL SPOR | Yedek 2
+https://idovavoo.com/xrot-v2/live/ekol-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EKOL SPOR | Yedek 3
+https://idovavoo.com/xrot-v2/live/ekol-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EUROSPORT 1 | Yedek 1
+https://idovavoo.com/xrot-v2/live/eurosport-1-c-75156939.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EUROSPORT 1 | Yedek 2
+https://idovavoo.com/xrot-v2/live/eurosport-1-c-75156939.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EUROSPORT 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/eurosport-2-c-2aede78a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EUROSPORT 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/eurosport-2-c-2aede78a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPOR 1 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-spor-1-sd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPOR 1 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-spor-1-sd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 2 LIVE DURING EVENTS ONLY | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-sports-2-live-during-events-only-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 3 LIVE DURING EVENTS ONLY | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-sports-3-live-during-events-only-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 4 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-sports-4-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 4 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-sports-4-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 5 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-sports-5-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 5 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-sports-5-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 6 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-6-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 6 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-6-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 7 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-7-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 7 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-7-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 8 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-8-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN SPORTS 8 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-8-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN TV SPOR 3 | Yedek 1
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-3-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",EXXEN TV SPOR 3 | Yedek 2
+https://idovavoo.com/xrot-v2/live/exxen-tv-spor-3-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",A SPOR | Yedek 1
+https://idovavoo.com/xrot-v2/live/a-spor-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",A SPOR | Yedek 2
+https://idovavoo.com/xrot-v2/live/a-spor-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",HT SPOR | Yedek 1
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",HT SPOR | Yedek 2
+https://idovavoo.com/xrot-v2/live/ht-spor-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",NBA TV | Yedek 1
+https://idovavoo.com/xrot-v2/live/nba-tv-c-5f321da7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",NBA TV | Yedek 2
+https://idovavoo.com/xrot-v2/live/nba-tv-c-5f321da7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN GURME | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-gurme-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spor" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN IZ | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-iz-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT 1 | Yedek 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT 1 | Yedek 2
+https://idovavoo.com/xrot-v2/live/trt-1-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT 2 | Yedek 1
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT 2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/trt-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42890" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",ATV | Yedek 1
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42891" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",ATV | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2325261286cc81b01cf95d
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42893" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",ATV HD 1 DENEME
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42894" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",ATV Avrupa | Yedek 1
+https://idovavoo.com/xrot-v2/live/atv-avrupa-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42897" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Show TV | Yedek 1
+http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42898" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Show TV | Yedek 2
+https://idovavoo.com/xrot-v2/live/show-tv-c-b565dffc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Show Max | Yedek 1
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42909" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Star TV | Yedek 1
+https://dygvideo.dygdigital.com/live/hls/startv4puhu
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42910" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Star TV | Yedek 2
+https://idovavoo.com/xrot-v2/live/star-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42911" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Star TV | Yedek 3
+https://idovavoo.com/xrot-v2/live/star-tv-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42913" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42914" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Kanal D | Yedek 2
+https://idovavoo.com/xrot-v2/live/kanal-d-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42916" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",NOW | Yedek 1
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42917" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",NOW | Yedek 2
+https://idovavoo.com/xrot-v2/live/now-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Beyaz TV | Yedek 1
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Beyaz TV | Yedek 2
+https://idovavoo.com/xrot-v2/live/beyaz-tv-c.m3u8
+#EXTINF:-1 tvg-id="https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788" tvg-logo="https://idovavoo.com/control/api/logo?id=42929" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV 8 HD
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42930" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV8 | Yedek 1
+https://idovavoo.com/xrot-v2/live/4k-tr-tv8-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42931" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV8 | Yedek 2
+https://idovavoo.com/xrot-v2/live/4k-tr-tv8-5-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42932" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV8 | Yedek 3
+https://idovavoo.com/xrot-v2/live/4k-tr-tv8-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42933" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV 8 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tv-8-s-f4f54825.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42935" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV 8.5 | Yedek 1
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42936" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TV 8.5 | Yedek 2
+https://idovavoo.com/xrot-v2/live/tv-8-5-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",360 | Yedek 1
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",360 | Yedek 2
+https://idovavoo.com/xrot-v2/live/360-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",A2 | Yedek 1
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",A2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/a2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Teve2 | Yedek 1
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Teve2 | Yedek 2
+https://idovavoo.com/xrot-v2/live/teve-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42947" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Kanal 7 | Yedek 1
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",Kanal 7 Avrupa | Yedek 1
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",ŞANLIURFA KANAL URFA | Yedek 1
+https://edge1.taksimbilisim.com/kanalurfa/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",URFANATİK TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42956" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 | Yedek 1
+https://idovavoo.com/xrot-v2/live/24-s-ff01ba08.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42957" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 | Yedek 2
+https://idovavoo.com/xrot-v2/live/24-raw-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42958" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 | Yedek 3
+https://idovavoo.com/xrot-v2/live/4k-tr-24-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42959" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 HABER + | Yedek 1
+https://idovavoo.com/xrot-v2/live/24-haber-hd-sd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42960" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 HABER + | Yedek 2
+https://idovavoo.com/xrot-v2/live/24-haber-hd-sd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42961" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 HABER + | Yedek 3
+https://idovavoo.com/xrot-v2/live/24-haber-hd-sd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 KITCHEN | Yedek 1
+https://idovavoo.com/xrot-v2/live/24-kitchen-hd-b-87795fa9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 KITCHEN | Yedek 2
+https://idovavoo.com/xrot-v2/live/24-kitchen-hd-b-87795fa9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 KITCHEN | Yedek 3
+https://idovavoo.com/xrot-v2/live/24-kitchen-hd-b-87795fa9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42965" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 TV | Yedek 1
+https://idovavoo.com/xrot-v2/live/24-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42966" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 TV | Yedek 2
+https://idovavoo.com/xrot-v2/live/24-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://idovavoo.com/control/api/logo?id=42967" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",24 TV | Yedek 3
+https://idovavoo.com/xrot-v2/live/24-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TGRT EU | Yedek 1
+https://idovavoo.com/xrot-v2/live/tgrt-eu-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TGRT EU | Yedek 2
+https://idovavoo.com/xrot-v2/live/tgrt-eu-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ulusal" category-icon="" catchup="" catchup-source="" catchup-days="0",TGRT EU | Yedek 3
+https://idovavoo.com/xrot-v2/live/tgrt-eu-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",NTV HABER
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",HABER TÜRK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",TV100
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?tv=1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",BENGÜ TÜRK
+https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Haber" category-icon="" catchup="" catchup-source="" catchup-days="0",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN BOX OFFICE 1 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29307461023dd1f85985b0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN BOX OFFICE 2 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F391012970274e1f1b46029
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN BOX OFFICE 3 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7249326193e69ecc36187
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES ACTION | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18734781311354b28a35dd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",ŞABAN TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FIX CINEMA YESILCAM
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F411086166261597686dd33
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES ACTION 2 | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-movies-action-2-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES FAMILY | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-movies-family-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES PREMIERE | Yedek 1
+https://idovavoo.com/xrot-v2/live/bein-movies-premiere-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES PREMIERE 2 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22440690938318303270a5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES STARS | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F250091316466da3ef72786
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES TURK | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33905759489e0915a21ca8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",BEIN MOVIES TURK | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F239201347a28a02eb2603
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",ARENA BOX ACTION | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32169858008c38299c49bf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FILMBOX AKSIYON | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3207486934d626b3be1e79
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FILMBOX FANTASTIC | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3207486934d626b3be1e79
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FILMBOX KADIR INANIR | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15843353838096cf65cb7d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FILMBOX KADIR INANIR | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F411086166261597686dd33
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FIX CINEMA ACTION | Yedek 1
+https://idovavoo.com/xrot-v2/live/fix-cinema-action-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",GLOBAL BOX KEMAL SUNAL | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4275446197442fb43a2e5e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIE SMART ACTION | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28537307030aac03ac9f83
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIE SMART ACTION | Yedek 2
+https://idovavoo.com/xrot-v2/live/movie-smart-action-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIE SMART CLASSIC | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1337239933e2da7f068f8a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIE SMART CLASSIC | Yedek 2
+https://idovavoo.com/xrot-v2/live/moviesmart-classic-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIE SMART TURK | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37193975221c1d8ce1ff11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIE SMART TURK | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37193975221c1d8ce1ff11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIEMAX TURK | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F720191023e621b43c1e7b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",MOVIESMART TURK | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15843353838096cf65cb7d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",PROTURK KEMAL SUNAL | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4275446197442fb43a2e5e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",PROTURK KEMAL SUNAL | Yedek 2
+https://idovavoo.com/xrot-v2/live/proturk-kemal-sunal-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",REAL BOX ACTION | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18280597356594959726c2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",SINEMA AILE 2 | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30005947634e6b4664fb0b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",EPIC DRAMA
+https://idovavoo.com/xrot-v2/live/4k-tr-epic-drama-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",FIX CINEMA KORKU
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F277891079147ee107a816f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sinema" category-icon="" catchup="" catchup-source="" catchup-days="0",SMART BOX ACTION | Yedek 1
+https://idovavoo.com/xrot-v2/live/smart-box-action-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",ANIMAL PLANET | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24403473701d74df8c6728
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",BBC EARTH | Yedek 1
+https://idovavoo.com/xrot-v2/live/bbc-earth-premiere-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",BBC EARTH PREMIERE | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3968360733afa6795a0a87
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",DISCOVERY CHANNEL + | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6957057788f10364acdac
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",DISCOVERY ID | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20954040600611bde9e160
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",DISCOVERY IDX | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9700986623c97a7651f69
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",DISCOVERY SCIENCE + | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2818684271ea7ddc0e09ff
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",DISCOVERY WORLD | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28779334730a8b3d5f2859
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",DOCUBOX | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36503860629402933193b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",HISTORY | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F420748756258a17d4693fc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",INVESTIGATION DISCOVERY | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4202971985e0418640ee35
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",LOVE NATURE + | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3578706863eeeea821418e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",NAT GEO | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F184566063009c2eced111a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",NATIONAL GEOGRAPHIC + | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F184566063009c2eced111a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",NATIONAL GEOGRAPHIC WILD | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1519237116daf8e783a22b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",NATIONAL GEOGRAPHIC WILD | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F332065496847e1d2ff5743
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",TGRT BELGESEL | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3925938631130980bfec69
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",TGRT BELGESEL | Yedek 2
+https://idovavoo.com/xrot-v2/live/tgrt-belgesel-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT BELGESEL + | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33409970269ccb83ea274e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgesel" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT BELGESEL + | Yedek 2
+https://idovavoo.com/xrot-v2/live/trt-belgesel-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",M N KA OCUK | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F248538205948705e1eeee
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",M N KA OCUK | Yedek 2
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F303623168794bb7e9c54a7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",BABY TV | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27516589959a967260542d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",CARTOON NETWORK | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11727344051860d39bf4b4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",CARTOONITO | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F620564549c18fa8b9ec11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",ÇOCUK SMART | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F620564549c18fa8b9ec11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",DISNEY CHANNEL | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3578544716a4cc42d03dcd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",DISNEY JUNIOR | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6492287228e9a72f932b5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",DISNEY XD | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34228536805e87ad5629aa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",MINIKA COCUK | Yedek 1
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",MINIKA GO | Yedek 1
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",NICK JR | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4035838813404dc0cd5ba8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",NICK JUNIOR | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F70716309912fd7c8b433e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",NICKELODEON | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F503443750d4adaa3772e8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",NICKTOONS | Yedek 1
+https://vavoo-resolver.mizahthefutbol.workers.dev/play?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F988691374172058ef3d50
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",SMART COCUK | Yedek 1
+https://idovavoo.com/xrot-v2/live/smart-cocuk-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT Çocuk | Yedek 1
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Çocuk" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT Diyanet Çocuk | Yedek 1
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",IBRAHIM TATLISES | Yedek 1
+https://idovavoo.com/xrot-v2/live/ibrahim-tatlises-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",IBRAHIM TATLISES | Yedek 2
+https://idovavoo.com/xrot-v2/live/ibrahim-tatlises-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",IBRAHIM TATLISES | Yedek 3
+https://idovavoo.com/xrot-v2/live/ibrahim-tatlises-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",KRAL POP + | Yedek 1
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",KRAL POP RADYO T RK E POP | Yedek 1
+https://idovavoo.com/xrot-v2/live/kral-pop-radyo-t-rk-e-pop-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",NR1 | Yedek 1
+https://b01c02nl.mediatriple.net/vi...ast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",NR1 DAMAR | Yedek 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",NUMBER ONE FM YABANCI M ZIK BURDA | Yedek 1
+https://idovavoo.com/xrot-v2/live/number-one-fm-yabanci-m-zik-burda-b-0bd90119.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",NUMBER ONE FM YABANCI M ZIK BURDA | Yedek 2
+https://idovavoo.com/xrot-v2/live/number-one-fm-yabanci-m-zik-burda-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",NUMBER ONE FM YABANCI M ZIK BURDA | Yedek 3
+https://idovavoo.com/xrot-v2/live/number-one-fm-yabanci-m-zik-burda-b-0bd90119.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",POWER TURK | Yedek 1
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",POWER TURK | Yedek 2
+https://idovavoo.com/xrot-v2/live/power-turk-hd-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",DREAM TÜRK
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",POWERTURK AKUSTIK | Yedek 1
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",POWERTURK SLOW | Yedek 1
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",TATLISES TV | Yedek 1
+https://idovavoo.com/xrot-v2/live/tatlises-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",TATLISES TV | Yedek 2
+https://idovavoo.com/xrot-v2/live/tatlises-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",TATLISES TV | Yedek 3
+https://idovavoo.com/xrot-v2/live/tatlises-tv-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT MUZIK + | Yedek 1
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Müzik" category-icon="" catchup="" catchup-source="" catchup-days="0",TRT MUZIK + | Yedek 2
+https://idovavoo.com/xrot-v2/live/trt-muzik-raw-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",MedyaHaber TV
+https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Nûçe TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Ronahi TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Rojava TV
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Cira TV
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Zagros 24 TV
+https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Jin TV 2
+https://hlspackager.akamaized.net/live/DB/JIN_TV/HLS/JIN_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Med Muzik TV
+https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",NEXT
+https://livestream.badinan.xyz/nexttv/FHD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Waar TV
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Ava TV
+https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",A Tv
+http://uesztesm.ioiju.com//live/B35DKUNA/M7EAAYCS/98953.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Welat TV
+https://stream.badinan.xyz/welat/tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Zarok TV 2
+https://hlspackager.akamaized.net/live/DB/ZAROK_TV/HLS/ZAROK_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Adsız Kanal
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Edessa TV
+https://canli.edessatv.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Dengê Zelal Tv
+https://dengetv.ozelip.com:3143/live/dengelive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Niroj HD
+https://live.kurdtips.uno/proxy.php?url=https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Niroj.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Galy Kurdîstan
+https://live.host247.net/gk/gksat/chunklist_w587857221.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Galy Kurdîstan Channel
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/LD_Family.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Rudaw TV
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Al Yaum TV
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Mix TV
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",KurdMax TV
+https://live.kurdtips.uno/proxy.php?url=http://fina4.com/live/kqmbtfh7xg/1uecgbjdg4%2F312633.m3u8&ext=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",KurdMax Show
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdMax_Show.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",NRT TV
+https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kurdî 24 News
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kurdîstan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Euro Kurd TV
+http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kirkuk TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",DUHOK HD
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Duhok.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Duhok Movie Tv
+http://217.76.62.187/hls/Duhok_Moves.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Barin Tv
+https://live.kurdtips.uno/proxy.php?url=http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Barin Movies
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/barin-movies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",New Tv
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/bnar-family/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",New Movies
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/bnar-movies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Ava Family tv
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",AvA series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",One Plus Tv
+http://217.76.62.187/hls/kurdiplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Infinity Tv
+https://live.kurdtips.uno/proxy.php?url=https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Infinity.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Cîhan TV
+http://167.235.89.164/stream/61/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Red Tv
+http://avrstream.com:1935/live/REDTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Dasniya Tv
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Dasniya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Esra Tv
+https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-ESRAHD%2FESRAHD%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Esra Tv 2
+https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-esra2hd_kamalblbas%2Fesra2hd_kamalblbas%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Avar TV
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Ala TV
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kurd Tv
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Kurd 7
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",befrin
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Biner Tv
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/biner-zaxo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Shar Tv
+http://avrstream.com:1935/live/SHARTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",halabja tv
+https://live.kurdtips.uno/proxy.php?url=http://halabjatv.ddns.net:40/live/halabjatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Ranya City
+https://live.kurdtips.uno/proxy.php?url=https://avr.host247.net/Ranya/RanyaCity/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",khak tv
+https://live.kurdtips.uno/proxy.php?url=http://khakhd.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Soz Tv
+https://live.kurdtips.uno/proxy.php?url=https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",ZNAR HD
+https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2F183.bozztv.com%2Fgiatv%2Fgiatv-znar%2Fznar%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Dever Tv
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Dever.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Derin Tv
+https://live.kurdtips.uno/proxy.php?url=http://baskhd.ddns.net:40/live/Derin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Bask Tv
+https://live.kurdtips.uno/proxy.php?url=http://baskhd.ddns.net:40/live/baskhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Gewher Tv
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/gewher-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Dunya Tv
+https://live.kurdtips.uno/proxy.php?url=http://dunyahd.ddns.net/live/DunyaHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Walla Tv
+https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-wallatv88%2Fwallatv88%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",S Tv
+https://live.kurdtips.uno/proxy.php?url=http://shnatv.ddns.net:1935/live/shnatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Zed Tv
+https://live.kurdtips.uno/proxy.php?url=http%3A%2F%2Fkrdtvappfree.ddns.net%2Fzedkrdtv%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",J Media Tv
+http://jegrmediahussen.com:8088/JMedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Soran Tv
+http://avrstream.com:1935/live/SoranEntertainment/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Animal Box
+https://live.kurdtips.uno/proxy.php?url=https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",K24 Documentary
+https://stvplus.wap.sh/SemirTv/Livestream/Kurdish_Local/K24_Duc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",AVA Sport
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AvaSport.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",NRT Sport
+https://live.kurdtips.uno/proxy.php?url=https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Qallam Sport
+https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2F183.bozztv.com%2Fgiatv%2Fgiatv-qallamsport184184%2Fqallamsport184184%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Gewher Sport
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Perwerde Duhok
+https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",One Kids TV
+http://217.76.62.187/hls/kids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Zoo Moo TV
+https://stvplus.wap.sh/SemirTv/Livestream/Kurdish_Local/Pelistank.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kürtçe" category-icon="" catchup="" catchup-source="" catchup-days="0",Gewher Kids TV
+https://live.kurdtips.uno/proxy.php?url=https://cdn.karwan.tv/gewher-kids/tracks-v1a1/mono.m3u8
